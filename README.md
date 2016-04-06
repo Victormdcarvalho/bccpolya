@@ -41,7 +41,7 @@ var
 
 inicio 
 	
-escraval (" Digite um numero: ")
+escreval (" Digite um numero: ")
   leia (num);
 
 se (num < 0) nentão
@@ -51,6 +51,10 @@ escreval("A raiz quadrada é,raizq(num));
 fimse
 
 fimalgoritimo
+
+Fluxograma:
+-
+![Fluxograma](/FLUXOGRAMA01.png)
 
 Uso de "Polya" no nome do repositório
 ---------------------------------------
