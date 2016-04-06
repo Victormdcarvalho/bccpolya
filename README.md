@@ -19,7 +19,7 @@ algoritimo
  função raizq: real
  
  var 
-    num, a1, a2: real
+    num, a1, a2: \nreal \n
  
  
  inicio 
@@ -28,7 +28,7 @@ algoritimo
      a2 = 0.0
         faca
                 a2 = (a1+(num/a1))/2
-                a1= (a2 + (num/a2))/2
+                a1=("\n") (a2 + (num/a2))/2
                  a2 = (a1+(num/a1))/2
                 a1= (a2 + (num/a2))/2
         enquanto (abs(a1 - a2) > 0)
