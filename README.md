@@ -2,7 +2,7 @@
 
 Descrição do problema:
 Desenvolver uma função em C que calcule a aproximação da raiz quadrada de um número real.
-
+------------------------------------------------------------------------------------------
 Linguagem matemática:
 
 v1 = 1
@@ -10,8 +10,7 @@ f(x) = [v1+(x/v1))/2 = v2
 v3 = f(x)/2
 v4 = v3/2
 v5 = v4/2
-
-
+------------------------------------------------------------------------------------------
 Português Estruturado:
 algoritimo
  função raizq: real
@@ -49,6 +48,8 @@ escreval("A raiz quadrada é,raizq(num));
 fimse
 
 fimalgoritimo
+-------------------------------------------------------------------------------
+
 
 
 
